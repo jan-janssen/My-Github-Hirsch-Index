@@ -1,0 +1,28 @@
+name: Deploy
+
+on:
+  repository_dispatch:
+    types: [build]
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+    - name: Build
+      shell: bash -l {0}
+      run: |
+        pip install jinja2 requests
+        python .ci_support/run.py --username ${{ github.actor }} --token ${{ secrets.GITHUB_TOKEN }} --template .ci_support/template.md --repository ${{ github.repository }} 
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.6.1
+      with:
+        branch: main
+        folder: .
