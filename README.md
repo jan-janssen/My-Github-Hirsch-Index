@@ -4,14 +4,14 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 498 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 500 :star: | 10 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
 | [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 232 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
-| [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 60 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
+| [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 59 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
@@ -39,8 +39,11 @@
 | [pyiron/pyiron_contrib](https://github.com/pyiron/pyiron_contrib) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_contrib) |
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
+| [janssenlab/2024-SusMet-Density-Functional-Theory-Lecture](https://github.com/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) |
+| [janssenlab/2025-SusMet-Machine-Learning-Workshop](https://github.com/janssenlab/2025-SusMet-Machine-Learning-Workshop) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-SusMet-Machine-Learning-Workshop) |
 | [pyiron-workshop/lanl-tutorial-2025](https://github.com/pyiron-workshop/lanl-tutorial-2025) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron-workshop/lanl-tutorial-2025) |
-| [jan-janssen/birmingham](https://github.com/jan-janssen/birmingham) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/birmingham) |
+| [janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture](https://github.com/janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture) |
+| [janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture](https://github.com/janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture) |
 
 
 ## Calculate your Github Hirsch Index
