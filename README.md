@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 500 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 497 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -31,10 +31,10 @@
 | [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
 | [pyiron/pyiron_lammps](https://github.com/pyiron/pyiron_lammps) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_lammps) |
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
-| [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [IlgarBaghishov/DFTprecisionMLIP](https://github.com/IlgarBaghishov/DFTprecisionMLIP) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/IlgarBaghishov/DFTprecisionMLIP) |
 | [h5io/h5io](https://github.com/h5io/h5io) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/h5io/h5io) |
+| [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
 | [pyiron/pyiron_contrib](https://github.com/pyiron/pyiron_contrib) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_contrib) |
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
