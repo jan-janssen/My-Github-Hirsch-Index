@@ -10,7 +10,7 @@
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 234 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 235 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 58 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
@@ -25,8 +25,8 @@
 | [materialdigital/ADIS2023](https://github.com/materialdigital/ADIS2023) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/materialdigital/ADIS2023) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
-| [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
+| [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
 | [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
