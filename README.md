@@ -11,10 +11,10 @@
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
 | [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 236 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
-| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 60 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
-| [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 23 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
+| [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 21 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**conda-forge/staged-recipes**](https://github.com/conda-forge/staged-recipes) | 18 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/staged-recipes) |
 | [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 15 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
@@ -32,13 +32,13 @@
 | [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
 | [pyiron/lammpsparser](https://github.com/pyiron/lammpsparser) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/lammpsparser) |
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
+| [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [IlgarBaghishov/DFTprecisionMLIP](https://github.com/IlgarBaghishov/DFTprecisionMLIP) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/IlgarBaghishov/DFTprecisionMLIP) |
 | [h5io/h5io](https://github.com/h5io/h5io) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/h5io/h5io) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
 | [pyiron/pyiron_contrib](https://github.com/pyiron/pyiron_contrib) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_contrib) |
-| [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
 | [janssenlab/2024-SusMet-Density-Functional-Theory-Lecture](https://github.com/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) |
 | [janssenlab/2025-SusMet-Machine-Learning-Workshop](https://github.com/janssenlab/2025-SusMet-Machine-Learning-Workshop) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-SusMet-Machine-Learning-Workshop) |
