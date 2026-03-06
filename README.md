@@ -10,12 +10,12 @@
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 237 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 238 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
-| [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 21 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
+| [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**conda-forge/staged-recipes**](https://github.com/conda-forge/staged-recipes) | 18 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/staged-recipes) |
 | [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 15 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
 | [**jan-janssen/gmailsorter**](https://github.com/jan-janssen/gmailsorter) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter) |
@@ -24,12 +24,12 @@
 | [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
 | [materialdigital/ADIS2023](https://github.com/materialdigital/ADIS2023) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/materialdigital/ADIS2023) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
+| [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
-| [pyiron/atomistics](https://github.com/pyiron/atomistics) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
-| [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
+| [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
 | [pyiron/lammpsparser](https://github.com/pyiron/lammpsparser) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/lammpsparser) |
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
