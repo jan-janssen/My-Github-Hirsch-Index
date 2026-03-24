@@ -35,8 +35,8 @@
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [IlgarBaghishov/DFTprecisionMLIP](https://github.com/IlgarBaghishov/DFTprecisionMLIP) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/IlgarBaghishov/DFTprecisionMLIP) |
-| [h5io/h5io](https://github.com/h5io/h5io) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/h5io/h5io) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
+| [h5io/h5io](https://github.com/h5io/h5io) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/h5io/h5io) |
 | [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
 | [pyiron/pyiron_contrib](https://github.com/pyiron/pyiron_contrib) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_contrib) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
