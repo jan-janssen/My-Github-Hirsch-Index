@@ -4,17 +4,17 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 494 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 490 :star: | 10 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 237 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 238 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 63 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
-| [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
+| [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 23 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 22 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**conda-forge/staged-recipes**](https://github.com/conda-forge/staged-recipes) | 17 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/staged-recipes) |
 | [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 15 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
