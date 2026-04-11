@@ -4,14 +4,14 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 480 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 484 :star: | 10 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
 | [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 238 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
-| [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 63 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
+| [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 23 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 23 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
