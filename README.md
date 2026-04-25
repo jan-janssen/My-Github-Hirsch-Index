@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 485 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 486 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -44,6 +44,7 @@
 | [pyiron-workshop/lanl-tutorial-2025](https://github.com/pyiron-workshop/lanl-tutorial-2025) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron-workshop/lanl-tutorial-2025) |
 | [janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture](https://github.com/janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-Birmingham-University-Atomistic-Simulation-Lecture) |
 | [janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture](https://github.com/janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-RUB-Programming-Concepts-in-Materials-Science-Lecture) |
+| [janssenlab/.github](https://github.com/janssenlab/.github) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/.github) |
 
 
 ## Calculate your Github Hirsch Index
