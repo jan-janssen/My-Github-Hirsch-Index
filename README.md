@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 525 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 539 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -20,7 +20,7 @@
 | [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 15 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
 | [**jan-janssen/gmailsorter**](https://github.com/jan-janssen/gmailsorter) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter) |
 | [**pyiron/pyiron_base**](https://github.com/pyiron/pyiron_base) | 12 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_base) |
-| [jan-janssen/conda-forge-contribution](https://github.com/jan-janssen/conda-forge-contribution) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
+| [**jan-janssen/conda-forge-contribution**](https://github.com/jan-janssen/conda-forge-contribution) | 10 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
 | [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
 | [materialdigital/ADIS2023](https://github.com/materialdigital/ADIS2023) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/materialdigital/ADIS2023) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
