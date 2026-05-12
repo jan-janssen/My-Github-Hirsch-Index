@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 697 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 700 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -29,7 +29,7 @@
 | [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
-| [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
+| [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
 | [pyiron/lammpsparser](https://github.com/pyiron/lammpsparser) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/lammpsparser) |
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
