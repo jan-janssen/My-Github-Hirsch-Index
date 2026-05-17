@@ -4,13 +4,13 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 701 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 702 :star: | 10 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 243 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 242 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 25 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
@@ -22,7 +22,6 @@
 | [**jan-janssen/gmailsorter**](https://github.com/jan-janssen/gmailsorter) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter) |
 | [**jan-janssen/conda-forge-contribution**](https://github.com/jan-janssen/conda-forge-contribution) | 10 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
 | [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
-| [materialdigital/ADIS2023](https://github.com/materialdigital/ADIS2023) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/materialdigital/ADIS2023) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
