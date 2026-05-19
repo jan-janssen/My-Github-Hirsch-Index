@@ -23,8 +23,8 @@
 | [**jan-janssen/conda-forge-contribution**](https://github.com/jan-janssen/conda-forge-contribution) | 10 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
 | [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
-| [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
+| [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
