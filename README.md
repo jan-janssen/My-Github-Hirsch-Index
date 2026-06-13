@@ -10,7 +10,7 @@
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 244 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 245 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 66 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 61 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 25 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
@@ -34,6 +34,7 @@
 | [jan-janssen/pymov2gif](https://github.com/jan-janssen/pymov2gif) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pymov2gif) |
 | [IlgarBaghishov/DFTprecisionMLIP](https://github.com/IlgarBaghishov/DFTprecisionMLIP) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/IlgarBaghishov/DFTprecisionMLIP) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
+| [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
