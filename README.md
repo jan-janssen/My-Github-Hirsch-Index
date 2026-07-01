@@ -26,8 +26,8 @@
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
 | [pyiron/pyfileindex](https://github.com/pyiron/pyfileindex) | 6 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyfileindex) |
+| [pyiron/lammpsparser](https://github.com/pyiron/lammpsparser) | 4 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/lammpsparser) |
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
-| [pyiron/lammpsparser](https://github.com/pyiron/lammpsparser) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/lammpsparser) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
 | [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
