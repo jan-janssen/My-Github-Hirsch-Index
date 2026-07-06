@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 702 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 704 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -12,7 +12,7 @@
 |------------|------------------------:|-------------------:|
 | [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 246 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 67 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
-| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 63 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
+| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 25 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
@@ -36,6 +36,7 @@
 | [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
+| [conda-forge/wannierberri-feedstock](https://github.com/conda-forge/wannierberri-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/wannierberri-feedstock) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
 | [janssenlab/2024-SusMet-Density-Functional-Theory-Lecture](https://github.com/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) |
 | [janssenlab/2025-SusMet-Machine-Learning-Workshop](https://github.com/janssenlab/2025-SusMet-Machine-Learning-Workshop) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2025-SusMet-Machine-Learning-Workshop) |
