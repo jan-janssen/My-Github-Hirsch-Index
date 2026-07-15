@@ -11,7 +11,6 @@
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
 | [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 246 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
-| [**jan-janssen/LangSim**](https://github.com/jan-janssen/LangSim) | 67 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/LangSim) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 25 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
