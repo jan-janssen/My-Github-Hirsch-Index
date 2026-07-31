@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 710 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 711 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -16,7 +16,7 @@
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 23 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
 | [**conda-forge/staged-recipes**](https://github.com/conda-forge/staged-recipes) | 18 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/staged-recipes) |
-| [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 16 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
+| [**pythonworkflow/python-workflow-definition**](https://github.com/pythonworkflow/python-workflow-definition) | 17 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pythonworkflow/python-workflow-definition) |
 | [**pyiron/pyiron_base**](https://github.com/pyiron/pyiron_base) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_base) |
 | [**jan-janssen/gmailsorter**](https://github.com/jan-janssen/gmailsorter) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter) |
 | [**jan-janssen/conda-forge-contribution**](https://github.com/jan-janssen/conda-forge-contribution) | 10 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
