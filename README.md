@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 708 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 707 :star: | 10 :zap: |
 
 ## Repositories 
 
@@ -33,7 +33,6 @@
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
-| [pyiron/docker-stacks](https://github.com/pyiron/docker-stacks) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/docker-stacks) |
 | [conda-forge/wannierberri-feedstock](https://github.com/conda-forge/wannierberri-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/wannierberri-feedstock) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
 | [janssenlab/2024-SusMet-Density-Functional-Theory-Lecture](https://github.com/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) |
