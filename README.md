@@ -4,13 +4,13 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 1004 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 1005 :star: | 10 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 248 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
+| [**pyiron/pyiron**](https://github.com/pyiron/pyiron) | 249 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron) |
 | [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
@@ -20,7 +20,7 @@
 | [**pyiron/pyiron_base**](https://github.com/pyiron/pyiron_base) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_base) |
 | [**jan-janssen/gmailsorter**](https://github.com/jan-janssen/gmailsorter) | 13 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/gmailsorter) |
 | [**jan-janssen/conda-forge-contribution**](https://github.com/jan-janssen/conda-forge-contribution) | 10 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/conda-forge-contribution) |
-| [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 8 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
+| [jan-janssen/pyauthenticator](https://github.com/jan-janssen/pyauthenticator) | 9 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/pyauthenticator) |
 | [conda-forge/lammps-feedstock](https://github.com/conda-forge/lammps-feedstock) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/lammps-feedstock) |
 | [nglviewer/nglview](https://github.com/nglviewer/nglview) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/nglviewer/nglview) |
 | [pyiron/atomistics](https://github.com/pyiron/atomistics) | 7 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/atomistics) |
@@ -33,6 +33,7 @@
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
 | [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
+| [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/fenics-feedstock) |
 | [conda-forge/wannierberri-feedstock](https://github.com/conda-forge/wannierberri-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/wannierberri-feedstock) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
 | [janssenlab/2024-SusMet-Density-Functional-Theory-Lecture](https://github.com/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/janssenlab/2024-SusMet-Density-Functional-Theory-Lecture) |
