@@ -4,7 +4,7 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 1005 :star: | 10 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 1003 :star: | 10 :zap: |
 
 ## Repositories 
 
