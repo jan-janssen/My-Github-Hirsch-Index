@@ -32,7 +32,6 @@
 | [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
-| [pyiron/pyironFlow](https://github.com/pyiron/pyironFlow) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyironFlow) |
 | [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/fenics-feedstock) |
 | [conda-forge/wannierberri-feedstock](https://github.com/conda-forge/wannierberri-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/wannierberri-feedstock) |
 | [jan-janssen/jan-janssen](https://github.com/jan-janssen/jan-janssen) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/jan-janssen/jan-janssen) |
