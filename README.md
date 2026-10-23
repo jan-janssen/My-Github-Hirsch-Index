@@ -28,7 +28,7 @@
 | [pyiron/structuretoolkit](https://github.com/pyiron/structuretoolkit) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/structuretoolkit) |
 | [conda-forge/gpaw-feedstock](https://github.com/conda-forge/gpaw-feedstock) | 3 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/gpaw-feedstock) |
 | [pyiron/conda_subprocess](https://github.com/pyiron/conda_subprocess) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/conda_subprocess) |
-| [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 2 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
+| [conda-forge/qe-feedstock](https://github.com/conda-forge/qe-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/qe-feedstock) |
 | [conda-forge/pylammpsmpi-feedstock](https://github.com/conda-forge/pylammpsmpi-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/pylammpsmpi-feedstock) |
 | [pyiron/pyiron-resources](https://github.com/pyiron/pyiron-resources) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron-resources) |
 | [conda-forge/fenics-feedstock](https://github.com/conda-forge/fenics-feedstock) | 1 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/conda-forge/fenics-feedstock) |
