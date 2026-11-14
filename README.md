@@ -4,13 +4,13 @@
 
 | Username    | Attributed Github Stars | Github Hirsch Index |
 |-------------|------------------------:|------------------------:|
-| [jan-janssen](https://github.com/jan-janssen) | 1010 :star: | 9 :zap: |
+| [jan-janssen](https://github.com/jan-janssen) | 1009 :star: | 9 :zap: |
 
 ## Repositories 
 
 | Repository | Attributed Github Stars | Total Github Stars |
 |------------|------------------------:|-------------------:|
-| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 65 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
+| [**pyiron/executorlib**](https://github.com/pyiron/executorlib) | 64 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/executorlib) |
 | [**pyiron/pylammpsmpi**](https://github.com/pyiron/pylammpsmpi) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pylammpsmpi) |
 | [**pyiron/pyiron_atomistics**](https://github.com/pyiron/pyiron_atomistics) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pyiron_atomistics) |
 | [**pyiron/pysqa**](https://github.com/pyiron/pysqa) | 24 :star: | ![GitHub Repo stars](https://img.shields.io/github/stars/pyiron/pysqa) |
