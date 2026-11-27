@@ -12,17 +12,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
+    - uses: actions/checkout@v7
+    - uses: actions/setup-python@v7
       with:
-        python-version: '3.12'
+        python-version: '3.15'
     - name: Build
       shell: bash -l {0}
       run: |
         pip install jinja2 requests
         python .ci_support/run.py --username ${{ github.actor }} --token ${{ secrets.GITHUB_TOKEN }} --template .ci_support/template.md --repository ${{ github.repository }} 
     - name: Deploy 🚀
-      uses: JamesIves/github-pages-deploy-action@v4.6.1
+      uses: JamesIves/github-pages-deploy-action@v4.9.0
       with:
         branch: main
         folder: .
