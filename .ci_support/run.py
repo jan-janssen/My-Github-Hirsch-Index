@@ -25,7 +25,7 @@ query_packages = """
 {%- endif %}
       contributionTypes: [COMMIT]
       includeUserRepositories: true
-      orderBy: { field: UPDATED_AT, direction: DESC }
+      orderBy: { field: STARGAZERS, direction: DESC }
     ) {
       totalCount
       nodes {
